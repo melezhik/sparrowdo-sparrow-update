@@ -4,7 +4,7 @@ unit module Sparrowdo::Nginx;
 
 use Sparrowdo;
 
-sub tasks (%args) {
+our sub tasks (%args) {
 
   task_run  %(
     task => 'install nginx',
