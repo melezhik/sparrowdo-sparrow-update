@@ -1,7 +1,7 @@
 {
   "name"        : "Sparrowdo::Nginx",
   "version"     : "*",
-  "description" : "Sparrwodo module to install Nginx web server",
+  "description" : "Sparrowdo module to install Nginx web server",
   "authors" : [ "Alexey Melezhik"],
   "depends"     : [
                     "Sparrowdo"

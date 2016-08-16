@@ -1,6 +1,6 @@
 # SYNOPSIS
 
-Sparrwodo module to install Nginx web server
+Sparrowdo module to install Nginx web server.
 
 # Install
 
@@ -20,3 +20,8 @@ Sparrwodo module to install Nginx web server
 # Author
 
 [Alexey Melezhik](mailto:melezhik@gmail.com)
+
+# See also
+
+[SparrowDo](https://github.com/melezhik/sparrowdo)
+
