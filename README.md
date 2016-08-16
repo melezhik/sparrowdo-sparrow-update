@@ -1,10 +1,10 @@
 # SYNOPSIS
 
-Sparrowdo module to install Nginx web server.
+Sparrowdo module to update sparrow tool chain on target host.
 
 # Install
 
-    $ panda install Sparrowdo::Nginx
+    $ panda install Sparrowdo::Sparrow::Update
 
 
 # Usage
@@ -15,7 +15,7 @@ Sparrowdo module to install Nginx web server.
 
     use Sparrowdo;
 
-    module_run 'Nginx';
+    module_run 'Sparrow::Update';
 
 # Author
 
