@@ -1,6 +1,6 @@
 # SYNOPSIS
 
-Sparrowdo module to update sparrow tool chain on target host.
+Sparrowdo module to install/update Sparrow toolchain on target host.
 
 # Install
 

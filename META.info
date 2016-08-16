@@ -1,7 +1,7 @@
 {
   "name"        : "Sparrowdo::Sparrow::Update",
   "version"     : "*",
-  "description" : "Sparrowdo module to install Sparrow Toolchain",
+  "description" : "Sparrowdo module to install/update Sparrow toolchain on target host",
   "authors" : [ "Alexey Melezhik"],
   "depends"     : [
                     "Sparrowdo"
