@@ -11,10 +11,6 @@ Sparrowdo module to install/update Sparrow toolchain on target host.
 
     $ cat sparrowfile
 
-    use v6;
-
-    use Sparrowdo;
-
     module_run 'Sparrow::Update';
 
 # Author
